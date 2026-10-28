@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 0b9bbe03226438d469faf9978576f39e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Wall01: {fileID: 5183247525564321727, guid: 4fb8cfe7867ee3b41a16b2f1e96e85e8, type: 3}
+  - Wall01_door: {fileID: 8443324713470215487, guid: e907d115727076a40a1da74d6140beb5, type: 3}
+  - Wall01_corner01: {fileID: 5462955160192401262, guid: 53e13688704d258478ad939c0022aa4d, type: 3}
+  - Wall01_corner02: {fileID: 3831943391316271357, guid: 501dd64f4cc17764589a7db2a08b0a3d, type: 3}
+  - FillPiece: {fileID: 6971395096551919829, guid: 71f2e0bf4dbecb9418e53b8be747d832, type: 3}
+  - StartingRoom: {fileID: 8732025481099209086, guid: 2f2fe404336aa024082279cf18afc94d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
